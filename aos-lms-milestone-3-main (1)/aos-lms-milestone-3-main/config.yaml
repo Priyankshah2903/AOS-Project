@@ -1,0 +1,6 @@
+server_list:
+  - vivo-ashtamkar.local:50000
+  - LAPTOP-0VPEG2V0.local:50000
+  - raspi.local:50000
+
+llm_server: vivo-ashtamkar.local:50051
